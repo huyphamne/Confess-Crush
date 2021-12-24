@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "demo",
-    introTitle: 'Changg<33',
+    introTitle: ' heloo Changg<33',
     
     btnIntro: '^^HiHi^^',
     title: 'tối nayy điii noenn với huyy nkaa🥰',
